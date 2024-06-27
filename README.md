@@ -86,4 +86,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions, feedback, or support, please contact [your_email@example.com](mailto:Hamza.maatougui@outlook.com).
+For any questions, feedback, or support, please contact [Hamza.maatougui@outlook.com](mailto:Hamza.maatougui@outlook.com).
