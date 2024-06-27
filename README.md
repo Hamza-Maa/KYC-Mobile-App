@@ -49,12 +49,12 @@ To get started with the KYC App:
 
 1. Clone this repository:
    ```bash
-   git clone https://gitlab.com/hydatis2/hydatis-kyc-mobile.git
+   git clone https://github.com/Hamza-Maa/KYC-Mobile-App.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd hydatis-kyc-mobile
+   cd KYC-Mobile-App
    ```
 
 3. Ensure you have Flutter installed. If not, follow the [Flutter installation instructions](https://flutter.dev/docs/get-started/install).
