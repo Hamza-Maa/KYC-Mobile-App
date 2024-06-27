@@ -1,0 +1,30 @@
+this is notes for the whole project that will make you understand the project better:
+
+#For the package m7_livelyness_detection which is responsible for detecting smile-blink-turning head :
+-here is the official documentation of it:
+https://pub.dev/packages/m7_livelyness_detection
+-i found a full example code you can view it in the examples folder the file m7_livelyness_detection.dart
+
+#These some files that are well structured but never used in case you need them:
+-IDCardProvider.dart : provider using riverpod for capturing a photo
+
+#MinSdkVersion used :
+-Because i'am using camera package i had to change the minSdkVersion to 21 in which i defined it in
+android folder in the file local.properties.
+
+#Always use the size_config.dart for width and height of the screens app so they can fit in other phones.
+
+#Orginally we were going to use the the live test screens in the Test_Screens folder but because the deepfake
+detection model isn't compatible with the use of mobile app we used the LiveTestScreen_V2 screen. in future development
+consider using them they are ready, optimized and using riverpod as state management.
+
+#I have private repo in gitlab that contain this project with different stages (like before implementing the logic and after)
+and different commits stages. Feel free to contact me if you need it.
+
+#If you want to add dark mode feature consider checking app_theme.dart and layouts.dart to add it there.
+
+#Always consider using packages that consumes less size in your flutter app.
+
+#Learn to use Dart DevTools to help you track your app always for bugs and keeping the app smoother.
+
+
