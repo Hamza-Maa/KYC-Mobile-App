@@ -1,10 +1,4 @@
-Thank you for providing the details. Here's a draft for your README.md:
-
----
-
 # KYC App
-
-![KYC App Logo](https://url_to_your_logo.png)
 
 ## Introduction
 
@@ -92,8 +86,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions, feedback, or support, please contact [your_email@example.com](mailto:your_email@example.com).
-
----
-
-Feel free to adjust any part of this draft to better fit your project's specifics or your preferences. Let me know if you need further assistance or modifications!
+For any questions, feedback, or support, please contact [your_email@example.com](mailto:Hamza.maatougui@outlook.com).
