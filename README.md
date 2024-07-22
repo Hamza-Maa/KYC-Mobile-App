@@ -44,7 +44,7 @@ The project structure is organized as follows:
   - main.dart
 
 ## Screenshots
-Here are some screenshots of the Shopping KYC App:
+Here are some screenshots of the KYC App:
 <p align="center">
   <img src="Screenshots/on_broading.png" />
   <img src="Screenshots/login.png"/>
