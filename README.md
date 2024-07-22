@@ -43,6 +43,19 @@ The project structure is organized as follows:
     - [utility functions and helper classes]
   - main.dart
 
+## Screenshots
+Here are some screenshots of the Shopping KYC App:
+<p align="center">
+  <img src="Screenshots/on_broading.png" />
+  <img src="Screenshots/login.png"/>
+  <img src="Screenshots/SignUp.png"/>
+  <img src="Screenshots/falsified document.png"/>
+  <img src="Screenshots/verified document.png"/>
+  <img src="Screenshots/Image Quality.png"/>
+  <img src="Screenshots/Livnest Test.png"/>
+  <img src="Screenshots/DeepFake.png"/>
+</p>
+
 ## Getting Started
 
 To get started with the KYC App:
